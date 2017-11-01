@@ -1,19 +1,16 @@
 <RCC>
     <qresource prefix="/">
-        <file>Data/Image/add-line_horizontal.png</file>
-        <file>Data/Image/add-line_vertical.png</file>
-        <file>Data/Image/array_down.png</file>
-        <file>Data/Image/borderBack.png</file>
-        <file>Data/Image/sub-line_horizontal.png</file>
-        <file>Data/Image/sub-line_vertical.png</file>
         <file>Data/Css/blue.css</file>
         <file>Data/Css/fontawesome-webfont.ttf</file>
-        <file>Data/Css/qt_zh_CN.qm</file>
-        <file>Data/Image/qjsxl.png</file>
+        <file>Data/Css/qt_zh_CN(1).qm</file>
+        <file>Data/Image/add-line_horizontal.png</file>
+        <file>Data/Image/add-line_vertical.png</file>
         <file>Data/Image/app.png</file>
+        <file>Data/Image/array_down.png</file>
         <file>Data/Image/backto_1.png</file>
         <file>Data/Image/backto_2.png</file>
         <file>Data/Image/backto_3.png</file>
+        <file>Data/Image/borderBack.png</file>
         <file>Data/Image/close_1.png</file>
         <file>Data/Image/close_2.png</file>
         <file>Data/Image/close_3.png</file>
@@ -52,6 +49,7 @@
         <file>Data/Image/music.png</file>
         <file>Data/Image/other.png</file>
         <file>Data/Image/pic.png</file>
+        <file>Data/Image/qjsxl.png</file>
         <file>Data/Image/sclose_1.png</file>
         <file>Data/Image/sclose_2.png</file>
         <file>Data/Image/sclose_3.png</file>
@@ -61,6 +59,8 @@
         <file>Data/Image/setting_1.png</file>
         <file>Data/Image/setting_2.png</file>
         <file>Data/Image/setting_3.png</file>
+        <file>Data/Image/sub-line_horizontal.png</file>
+        <file>Data/Image/sub-line_vertical.png</file>
         <file>Data/Image/text.png</file>
         <file>Data/Image/tray.png</file>
         <file>Data/Image/up_1.png</file>

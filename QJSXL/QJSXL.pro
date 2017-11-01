@@ -22,4 +22,4 @@ FORMS    += MainWgt.ui
 DISTFILES +=
 
 RESOURCES += \
-    qres.qrc
+    res.qrc
